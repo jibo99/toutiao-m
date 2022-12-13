@@ -1,10 +1,11 @@
 <template>
   <div id="app">
+    <h1>黄志福 & 丁如意</h1>
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </nav>
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
